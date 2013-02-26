@@ -11,6 +11,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+// Test if youre a faggot clap your hands
+
 // the first step was to implement onclicklistener
 public class MainActivity extends Activity implements OnClickListener {
 // second step, defining buttons
